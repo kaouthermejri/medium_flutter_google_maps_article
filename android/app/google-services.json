@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "678320061065",
+    "firebase_url": "https://sih2020-c2682-default-rtdb.firebaseio.com",
+    "project_id": "sih2020-c2682",
+    "storage_bucket": "sih2020-c2682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678320061065:android:63dac2a0fc66961a446458",
+        "android_client_info": {
+          "package_name": "com.example.medium_flutter_googlemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678320061065-t01a1p40k0u283l16830ikef9p5apode.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfzRyd1xEP5oz4ZkSvzGKO-6Tx46GP7lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678320061065-t01a1p40k0u283l16830ikef9p5apode.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678320061065:android:4caef143ef4cb94c446458",
+        "android_client_info": {
+          "package_name": "com.example.sihhardware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678320061065-t01a1p40k0u283l16830ikef9p5apode.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfzRyd1xEP5oz4ZkSvzGKO-6Tx46GP7lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678320061065-t01a1p40k0u283l16830ikef9p5apode.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
